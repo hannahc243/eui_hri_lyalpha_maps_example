@@ -1,0 +1,3 @@
+sunpy[all]
+stixpy
+sunpy_soar
